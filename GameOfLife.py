@@ -7,7 +7,7 @@ from pygame import mixer
 pygame.init()
 
 mixer.init()
-mixer.music.load('thirdeye.ogg')
+mixer.music.load('music.ogg')
 mixer.music.play(-1) #music plays infinite
 
 
